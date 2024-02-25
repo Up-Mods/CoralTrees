@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "coraltrees:block/coroak_top",
+    "side": "coraltrees:block/coroak",
+    "top": "coraltrees:block/coroak_top"
+  }
+}

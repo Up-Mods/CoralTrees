@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "coraltrees:block/coroak_log",
+    "side": "coraltrees:block/coroak_log"
+  }
+}
